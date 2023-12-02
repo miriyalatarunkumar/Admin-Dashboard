@@ -86,4 +86,4 @@ Start the server
 
 ## Demo
 
-Link to project:
+Link to project: https://miriyalatarunkumar-admin-dashboard.vercel.app/
