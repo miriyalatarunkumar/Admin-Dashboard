@@ -63,7 +63,7 @@ https://geektrust.s3-ap-southeast-1.amazonaws.com/adminui-problem/members.json
 Clone the project
 
 ```bash
-  git clone
+  git clone https://github.com/miriyalatarunkumar/Admin-Dashboard.git
 ```
 
 Go to the project directory
